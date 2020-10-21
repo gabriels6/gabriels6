@@ -1,15 +1,23 @@
 ### Hello there, I'm Gabriel Gomes, Front-End Developer
 
 const gabriels6 = {
-  name: 'Gabriel Gomes',
-  age: 17,
-  programming-languages: ['Java','Javascript'],
-  frameworks: ['NodeJS','ReactJS','React Native'],
-  interested-in-projects: true,
+
+    name: 'Gabriel Gomes',
+  
+    age: 17,
+  
+    programming-languages: ['Java','Javascript'],
+  
+    frameworks: ['NodeJS','ReactJS','React Native'],
+  
+    interested-in-projects: true,
+  
 };
 
 function contactUser(){
-  return 'https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/'
+
+    return 'https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/';
+  
 }
 
 <!--
