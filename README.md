@@ -10,7 +10,7 @@ const gabriels6 = {
 
 function onSendFriendRequest(username){
 
-return 'Request Accepted';
+return 'Request Accepted :smile: ';
 
 }
 
