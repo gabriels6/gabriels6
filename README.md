@@ -8,10 +8,8 @@ const gabriels6 = {
   interested-in-projects: true,
 };
 
-function onSendFriendRequest(username){
-
-return 'Request Accepted :smile: ';
-
+function contactUser(){
+  return 'https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/'
 }
 
 <!--
