@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello there, I'm Gabriel Gomes, Front-End Developer
+
+const gabriels6 = {
+  name: 'Gabriel Gomes',
+  age: 17,
+  programming-languages: ['Java','Javascript'],
+  frameworks: ['NodeJS','ReactJS','React Native'],
+  interested-in-projects: true,
+};
+
+function onSendFriendRequest(username){
+
+return 'Request Accepted';
+
+}
 
 <!--
 **gabriels6/gabriels6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
