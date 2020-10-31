@@ -8,7 +8,7 @@ const gabriels6 = {
   
     programming-languages: ['Java','Javascript'],
   
-    frameworks: ['NodeJS','ReactJS','React Native'],
+    libraries-frameworks: ['NodeJS','ReactJS','React Native'],
   
     interested-in-projects: true,
   
