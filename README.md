@@ -4,7 +4,7 @@ const gabriels6 = {
 
     name: 'Gabriel Gomes',
   
-    age: 17,
+    age: 18,
   
     programming-languages: ['Java','Javascript'],
   
