@@ -1,4 +1,4 @@
-### Hello there, I'm Gabriel Gomes, Front-End Developer
+### Hello there, I'm Gabriel Gomes, Full Stack Developer
 
 const gabriels6 = {
 
