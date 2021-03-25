@@ -14,15 +14,18 @@ or E=mail me: gabrielsogom@gmail.com
 
 - 📁 Projects I have done:
 1. Video API with mongoDB:
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gabriels6&repo=video-api)](https://github.com/gabriels6/video-api) 
 Try out here: https://video-api-mongodb.herokuapp.com/Video
 
 2. Product API with PostgreSQL
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gabriels6&repo=product-api-postgresql)](https://github.com/gabriels6/product-api-postgresql)
 Try out here: https://product-api-postgresql.herokuapp.com/Product
 
 
 3. Finance Discord Chatbot with mongoDB
+
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gabriels6&repo=Finance-Discord-Bot)](https://github.com/gabriels6/Finance-Discord-Bot)
 
 4. Product API with .NET and C#
