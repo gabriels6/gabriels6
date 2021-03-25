@@ -28,6 +28,7 @@ Repository: https://github.com/gabriels6/Finance-Discord-Bot
 Repository: https://github.com/gabriels6/APIwithDDD
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriels6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6)](https://github.com/gabriels6/github-readme-stats)
 
 
 <!--
