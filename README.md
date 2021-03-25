@@ -2,6 +2,8 @@
 
 I am a Back-end developer, undergraduated, always looking for something new to develop!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6)](https://github.com/gabriels6/github-readme-stats)
+
 - 🔭 I’m currently working and leading a collaborative Spring MVC API project, of a project publisher, with the goal to develop a fully functional application.
 - 📫 How to reach me: 
 Best option is LinkedIn: https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/
@@ -28,7 +30,7 @@ Repository: https://github.com/gabriels6/Finance-Discord-Bot
 Repository: https://github.com/gabriels6/APIwithDDD
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriels6)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6)](https://github.com/gabriels6/github-readme-stats)
+
 
 
 <!--
