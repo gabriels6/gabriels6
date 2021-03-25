@@ -4,8 +4,11 @@ I am a Back-end developer, undergraduated, always looking for something new to d
 
 - 🔭 I’m currently working and leading a collaborative Spring MVC API project, of a project publisher, with the goal to develop a fully functional application.
 - 📫 How to reach me: 
+
 Best option is LinkedIn: https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/
+
 or E=mail me: gabrielsogom@gmail.com
+
 - 💻 Techs I'm developing/have developed projects on:
 1. Javascript (NodeJS)
 2. Java (Spring MVC)
