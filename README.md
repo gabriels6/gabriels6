@@ -7,7 +7,7 @@ I am a Back-end developer, undergraduated, always looking for something new to d
 
 Best option is LinkedIn: https://www.linkedin.com/in/gabriel-souza-gomes-6ab1161b9/
 
-or E=mail me: gabrielsogom@gmail.com
+or E-mail me: gabrielsogom@gmail.com
 
 - 💻 Techs I'm developing/have developed projects on:
 1. Javascript (NodeJS)
