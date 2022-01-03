@@ -22,13 +22,9 @@ or E-mail me: gabrielsogom@gmail.com
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gabriels6&repo=video-api)](https://github.com/gabriels6/video-api) 
 
-Try out here: https://video-api-mongodb.herokuapp.com/Video
-
 2. Product API with PostgreSQL
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gabriels6&repo=product-api-postgresql)](https://github.com/gabriels6/product-api-postgresql)
-
-Try out here: https://product-api-postgresql.herokuapp.com/Product
 
 
 3. Finance Discord Chatbot with mongoDB
