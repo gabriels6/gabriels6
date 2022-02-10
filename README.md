@@ -1,5 +1,7 @@
 ### Hello there, I'm Gabriel Gomes! 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6&hide=css,scss,html&theme=light) ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriels6)
+
 I am a Back-end developer, undergraduated, always looking for something new to develop!
 
 - 🔭 I’m currently working and leading a collaborative Spring MVC API project, of a project publisher, with the goal to develop a fully functional application.
@@ -13,10 +15,6 @@ or E-mail me: gabrielsogom@gmail.com
 1. Javascript (NodeJS)
 2. Java (Spring MVC)
 3. C# (ASP.NET API)
-
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriels6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6&hide=css,scss,html&theme=light)
 
 - 📁 Projects I have done:
 1. Video API with mongoDB:
