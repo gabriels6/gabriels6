@@ -2,6 +2,8 @@
 
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabriels6)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels6&hide=css,scss,html&theme=light)
+
 I am a Back-end developer, undergraduated, always looking for something new to develop!
 
 - 🔭 I’m currently working and leading a collaborative Spring MVC API project, of a project publisher, with the goal to develop a fully functional application.
